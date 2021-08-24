@@ -31,7 +31,6 @@ i) Set up an Android Virtual Device from AVD Manager
 ii) In order to run the Demo with a Physical Android Device, just enable the “Developers Options” on the Device and plugin to computer with the cable. Then, the Device should be revealed in Android Studio.
 
 
-Click Run Project and depending the preferred way from above, the OIDC Keycloak Android Client should launch on screen.
 ---
 ### Contributors
 
