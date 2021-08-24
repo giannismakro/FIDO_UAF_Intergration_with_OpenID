@@ -6,4 +6,11 @@ of a user in the Keycloak Idp.
 - [Installation Guide](manual-installation.md)
 - [Server's API](server-api.md)
 
+---
+### Contributors
 
+- Ioannis Makropodis
+- Ioannis Chouchoulis
+
+## License
+Licensed under the [MIT License](LICENSE).
