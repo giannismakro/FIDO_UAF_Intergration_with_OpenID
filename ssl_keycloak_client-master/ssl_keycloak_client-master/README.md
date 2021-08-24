@@ -32,3 +32,11 @@ ii) In order to run the Demo with a Physical Android Device, just enable the “
 
 
 Click Run Project and depending the preferred way from above, the OIDC Keycloak Android Client should launch on screen.
+---
+### Contributors
+
+- Ioannis Makropodis
+- Ioannis Chouchoulis
+
+## License
+Licensed under the [MIT License](LICENSE).
