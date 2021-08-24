@@ -6,4 +6,4 @@ The goal of Keycloak is to make security simple so that it is easy for applicati
 - [Installation Guide](manual-installation.md)
 
 ## License
-Licensed under the [Apache](LICENSE).
+Licensed under the [Apache](LICENSE.txt).
