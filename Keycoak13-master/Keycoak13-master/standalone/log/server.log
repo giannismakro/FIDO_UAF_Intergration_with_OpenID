@@ -1,0 +1,187 @@
+2021-06-02 12:45:29,153 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) #####################################################################################
+2021-06-02 12:45:29,156 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 12:45:29,192 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 12:45:29,193 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"dfa2c349-21a3-4c47-8a4b-196dc559f58a","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/","state":"f7efdfa8-6a0a-436e-85cc-121346c251eb"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"qLQKymOHCv0","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 12:45:29,219 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator status:200
+2021-06-02 12:45:29,220 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 12:45:29,224 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator response data:{"authNote":{"callCount":1}}
+2021-06-02 12:46:02,582 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-12) #####################################################################################
+2021-06-02 12:46:02,585 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-12) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 12:46:02,649 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-12) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 12:46:02,650 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-12) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"bd24e0ba-5699-44e8-86d2-aa7f102810f8","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/","state":"19afdaae-cc25-4b98-94a7-e3c427420d5f"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"bI7d3Lm0UDc","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 12:46:02,681 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-12) RestAuthenticator status:200
+2021-06-02 12:46:02,682 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-12) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 12:46:02,682 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-12) RestAuthenticator response data:{"authNote":{"callCount":1}}
+2021-06-02 12:47:45,212 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) #####################################################################################
+2021-06-02 12:47:45,213 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 12:47:45,237 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 12:47:45,238 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"10085927-a038-43a5-86e5-a59e661bdadf","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/","state":"83acf786-278c-433c-8cb9-f4f6d981f7c8"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"29arO0soLQk","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 12:47:45,264 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator status:200
+2021-06-02 12:47:45,273 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 12:47:45,274 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator response data:{"authNote":{"callCount":1}}
+2021-06-02 13:04:41,630 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) #####################################################################################
+2021-06-02 13:04:41,633 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 13:04:41,677 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 13:04:41,686 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"68adb98d-dc60-4fd8-aaae-db966fe9e684","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/","state":"fe4c281c-a682-43ef-845f-d18dacf66c2c"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"jJCG6guxLsU","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 13:04:41,720 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator status:200
+2021-06-02 13:04:41,721 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 13:04:41,728 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator response data:{"authNote":{"callCount":1}}
+2021-06-02 13:05:03,639 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) #####################################################################################
+2021-06-02 13:05:03,643 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 13:05:03,674 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 13:05:03,676 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"3d289f6a-b07e-4114-8e5e-ae0b233d2f4a","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/","state":"ac132d1b-c2c1-42d3-8dc5-35476f9ab2ad"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"TBXT_LqK2QQ","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 13:05:03,704 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator status:200
+2021-06-02 13:05:03,705 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 13:05:03,705 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator response data:{"authNote":{"callCount":1}}
+2021-06-02 13:05:19,187 WARN  [org.keycloak.events] (default task-15) type=LOGIN_ERROR, realmId=demo, clientId=null, userId=null, ipAddress=83.212.28.217, error=expired_code, restart_after_timeout=true, authSessionParentId=72bd84b2-a2f3-4968-af8e-5bb37b032dd1, authSessionTabId=t7ebSnkaYAE
+2021-06-02 13:05:23,413 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) #####################################################################################
+2021-06-02 13:05:23,414 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 13:05:23,437 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 13:05:23,438 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"af3ab629-5c09-40ae-81b7-e634d44f81e4","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/#","state":"fbf5e559-ee85-4012-8c52-7ea092fadcd9"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"t7ebSnkaYAE","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 13:05:23,464 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator status:200
+2021-06-02 13:05:23,465 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 13:05:23,465 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-15) RestAuthenticator response data:{"authNote":{"callCount":1}}
+2021-06-02 13:14:22,268 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) #####################################################################################
+2021-06-02 13:14:22,272 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 13:14:22,309 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 13:14:22,311 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"90168d7f-fa97-41b6-989a-c9af6a208c71","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/","state":"02a21a06-8f57-49a3-8332-1521b970ed53"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"RubTJ2Z9hsg","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 13:14:22,343 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator status:200
+2021-06-02 13:14:22,344 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 13:14:22,344 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator response data:{"authNote":{"callCount":1}}
+2021-06-02 13:26:17,745 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-20) #####################################################################################
+2021-06-02 13:26:17,746 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-20) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 13:26:17,784 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-20) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 13:26:17,787 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-20) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"b7be4a33-4e28-44a1-8ddd-e04eb2789cb9","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/","state":"4c9198da-42f3-4f83-8f02-4c2694b4b6f1"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"wHi_d3dB9Kk","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 13:26:17,809 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-20) RestAuthenticator status:200
+2021-06-02 13:26:17,810 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-20) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 13:26:17,810 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-20) RestAuthenticator response data:{"authNote":{"callCount":1}}
+2021-06-02 13:28:02,219 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) #####################################################################################
+2021-06-02 13:28:02,221 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 13:28:02,269 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 13:28:02,272 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"6529c7d0-8f42-4258-87b3-f56983f15ccc","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/","state":"2b26e1f6-ec1a-4bb0-85cf-6b94c4c7561c"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"eFTmBdxZiBk","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 13:28:02,305 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator status:200
+2021-06-02 13:28:02,306 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 13:28:02,306 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator response data:{"authNote":{"callCount":1}}
+2021-06-02 13:30:03,087 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) #####################################################################################
+2021-06-02 13:30:03,092 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 13:30:03,117 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 13:30:03,121 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"e2764497-0851-4d51-a1ce-f628c8c1d9d5","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/","state":"e1efaa3f-20cf-4a13-801d-b4f95c0cbd2e"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"mZXW6z4XZ1M","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 13:30:03,151 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator status:200
+2021-06-02 13:30:03,152 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 13:30:03,153 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-21) RestAuthenticator response data:{"authNote":{"callCount":1}}
+2021-06-02 13:33:14,361 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) #####################################################################################
+2021-06-02 13:33:14,362 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 13:33:14,394 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 13:33:14,395 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"ecf6fb08-7918-47c4-8cd7-198687fe20ba","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/","state":"77b5aee0-0bb2-4be1-881a-a4608228d634"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"bMemc0_ChfA","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 13:33:14,424 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) RestAuthenticator status:200
+2021-06-02 13:33:14,424 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 13:33:14,425 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) RestAuthenticator response data:{"authNote":{"callCount":1}}
+2021-06-02 13:38:10,700 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) #####################################################################################
+2021-06-02 13:38:10,702 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 13:38:10,723 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 13:38:10,725 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"f1e3b045-d9bc-42e5-8423-367dbd1dc1c7","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/","state":"81fe67b2-1b65-46c3-84bc-665476312088"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"MX7fBZIom3c","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 13:38:10,743 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) RestAuthenticator status:200
+2021-06-02 13:38:10,743 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 13:38:10,744 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-22) RestAuthenticator response data:{"authNote":{"callCount":1}}
+2021-06-02 13:40:54,795 WARN  [org.keycloak.events] (default task-22) type=LOGIN_ERROR, realmId=master, clientId=null, userId=null, ipAddress=127.0.0.1, error=expired_code, restart_after_timeout=true, authSessionParentId=9cb0b9be-6ec2-42ee-bb1b-dbe3711f1241, authSessionTabId=5_ZjHEa49k8
+2021-06-02 13:44:55,662 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-23) #####################################################################################
+2021-06-02 13:44:55,665 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-23) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 13:44:55,692 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-23) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 13:44:55,693 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-23) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"f15f79e5-af45-44dc-8dd5-61ba02d6f643","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/#","state":"2d8adce8-efc0-4441-9c54-be3e4252e964"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"P5jVVccpyA0","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 13:44:55,710 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-23) RestAuthenticator status:200
+2021-06-02 13:44:55,712 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-23) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 13:44:55,724 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-23) RestAuthenticator response data:{"failure":"invalidCredentials","authNote":{"callCount":1}}
+2021-06-02 13:44:55,746 WARN  [org.keycloak.services] (default task-23) KC-SERVICES0013: Failed authentication: org.keycloak.authentication.AuthenticationFlowException
+	at org.keycloak.authentication.DefaultAuthenticationFlow.processResult(DefaultAuthenticationFlow.java:497)
+	at org.keycloak.authentication.DefaultAuthenticationFlow.processSingleFlowExecutionModel(DefaultAuthenticationFlow.java:448)
+	at org.keycloak.authentication.DefaultAuthenticationFlow.processFlow(DefaultAuthenticationFlow.java:253)
+	at org.keycloak.authentication.DefaultAuthenticationFlow.processSingleFlowExecutionModel(DefaultAuthenticationFlow.java:389)
+	at org.keycloak.authentication.DefaultAuthenticationFlow.continueAuthenticationAfterSuccessfulAction(DefaultAuthenticationFlow.java:186)
+	at org.keycloak.authentication.DefaultAuthenticationFlow.processAction(DefaultAuthenticationFlow.java:164)
+	at org.keycloak.authentication.AuthenticationProcessor.authenticationAction(AuthenticationProcessor.java:950)
+	at org.keycloak.services.resources.LoginActionsService.processFlow(LoginActionsService.java:312)
+	at org.keycloak.services.resources.LoginActionsService.processAuthentication(LoginActionsService.java:283)
+	at org.keycloak.services.resources.LoginActionsService.authenticate(LoginActionsService.java:267)
+	at org.keycloak.services.resources.LoginActionsService.authenticateForm(LoginActionsService.java:340)
+	at sun.reflect.GeneratedMethodAccessor802.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.jboss.resteasy.core.MethodInjectorImpl.invoke(MethodInjectorImpl.java:138)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.internalInvokeOnTarget(ResourceMethodInvoker.java:546)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.invokeOnTargetAfterFilter(ResourceMethodInvoker.java:435)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.lambda$invokeOnTarget$0(ResourceMethodInvoker.java:396)
+	at org.jboss.resteasy.core.interception.PreMatchContainerRequestContext.filter(PreMatchContainerRequestContext.java:358)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.invokeOnTarget(ResourceMethodInvoker.java:398)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.invoke(ResourceMethodInvoker.java:365)
+	at org.jboss.resteasy.core.ResourceLocatorInvoker.invokeOnTargetObject(ResourceLocatorInvoker.java:150)
+	at org.jboss.resteasy.core.ResourceLocatorInvoker.invoke(ResourceLocatorInvoker.java:104)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:440)
+	at org.jboss.resteasy.core.SynchronousDispatcher.lambda$invoke$4(SynchronousDispatcher.java:229)
+	at org.jboss.resteasy.core.SynchronousDispatcher.lambda$preprocess$0(SynchronousDispatcher.java:135)
+	at org.jboss.resteasy.core.interception.PreMatchContainerRequestContext.filter(PreMatchContainerRequestContext.java:358)
+	at org.jboss.resteasy.core.SynchronousDispatcher.preprocess(SynchronousDispatcher.java:138)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:215)
+	at org.jboss.resteasy.plugins.server.servlet.ServletContainerDispatcher.service(ServletContainerDispatcher.java:245)
+	at org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher.service(HttpServletDispatcher.java:61)
+	at org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher.service(HttpServletDispatcher.java:56)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129)
+	at org.keycloak.provider.wildfly.WildFlyRequestFilter.lambda$doFilter$0(WildFlyRequestFilter.java:41)
+	at org.keycloak.services.filters.AbstractRequestFilter.filter(AbstractRequestFilter.java:43)
+	at org.keycloak.provider.wildfly.WildFlyRequestFilter.doFilter(WildFlyRequestFilter.java:39)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:117)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.NotificationReceiverHandler.handleRequest(NotificationReceiverHandler.java:50)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at org.wildfly.extension.undertow.deployment.GlobalRequestControllerHandler.handleRequest(GlobalRequestControllerHandler.java:68)
+	at io.undertow.servlet.handlers.SendErrorPageHandler.handleRequest(SendErrorPageHandler.java:52)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at org.wildfly.extension.undertow.security.SecurityContextThreadSetupAction.lambda$create$0(SecurityContextThreadSetupAction.java:105)
+	at org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:387)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:841)
+	at org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at org.xnio.XnioWorker$WorkerThreadFactory$1$1.run(XnioWorker.java:1280)
+	at java.lang.Thread.run(Thread.java:748)
+
+2021-06-02 13:44:55,773 WARN  [org.keycloak.events] (default task-23) type=LOGIN_ERROR, realmId=demo, clientId=js-console, userId=null, ipAddress=83.212.28.217, error=invalid_user_credentials, auth_method=openid-connect, auth_type=code, redirect_uri=http://83.212.239.221:8000/#, code_id=2d50df80-cafb-4bb5-8799-2e862ea5935f, username=mte2101, authSessionParentId=2d50df80-cafb-4bb5-8799-2e862ea5935f, authSessionTabId=P5jVVccpyA0
+2021-06-02 13:46:30,360 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-25) #####################################################################################
+2021-06-02 13:46:30,361 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-25) SCRIPT id=null; name=http://localhost:10000/uaf; description=Transmit the authentication execution to the url; realmId=demo
+2021-06-02 13:46:30,394 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-25) RestAuthenticator:http://localhost:10000/uaf
+2021-06-02 13:46:30,396 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-25) RestAuthenticator authSession:{"clientNotes":{"iss":"http://83.212.239.221:8180/auth/realms/demo","response_type":"code","nonce":"b0cd01af-218b-4ee5-84db-07cc649a5b4f","response_mode":"fragment","scope":"openid","redirect_uri":"http://83.212.239.221:8000/","state":"668ce4c8-12e5-4c3f-87b9-48cc4dd3dcb4"},"clientScopes":[],"authNote":{},"executionStatus":{"2ed1a7f6-f94b-4e3c-b062-38c6743d18f4":"CHALLENGED","add7bc6e-e0cf-43e4-b67b-e2283d6ceffa":"ATTEMPTED","648c0bb8-8044-477d-a74f-31bac8e3b879":"SUCCESS","8316153c-53c0-4870-bf93-1429ad3cb11c":"ATTEMPTED"},"userSessionNotes":{},"tabId":"1veq5n4Eeog","action":"AUTHENTICATE","protocol":"openid-connect"}
+2021-06-02 13:46:30,409 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-25) RestAuthenticator status:200
+2021-06-02 13:46:30,410 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-25) RestAuthenticator response content-type:application/json; charset=utf-8
+2021-06-02 13:46:30,411 INFO  [org.keycloak.authentication.authenticators.browser.ScriptBasedAuthenticator] (default task-25) RestAuthenticator response data:{"authNote":{"callCount":1}}

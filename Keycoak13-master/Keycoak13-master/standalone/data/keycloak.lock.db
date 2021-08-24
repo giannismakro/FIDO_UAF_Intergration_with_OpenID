@@ -1,0 +1,6 @@
+#FileLock
+#Tue Jun 01 23:32:16 EEST 2021
+hostName=fidoserver-Unipi
+id=179c946e055b481b60f90fcc804101cd67c7639188e
+method=file
+server=127.0.1.1\:43387

@@ -1,0 +1,11 @@
+eu/unipi/fido/uaf/crypto/CertificateValidatorImpl.class
+eu/unipi/fido/uaf/crypto/RSA.class
+eu/unipi/fido/uaf/crypto/Notary.class
+eu/unipi/fido/uaf/crypto/SHA.class
+eu/unipi/fido/uaf/crypto/HMAC.class
+eu/unipi/fido/uaf/crypto/NamedCurve.class
+eu/unipi/fido/uaf/crypto/KeyCodec.class
+eu/unipi/fido/uaf/crypto/Asn1.class
+eu/unipi/fido/uaf/crypto/CertificateValidator.class
+eu/unipi/fido/uaf/crypto/BCrypt.class
+eu/unipi/fido/uaf/crypto/X509.class

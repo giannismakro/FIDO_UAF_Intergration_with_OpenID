@@ -1,0 +1,9 @@
+eu/unipi/fido/uaf/tlv/Tag.class
+eu/unipi/fido/uaf/tlv/UnsignedUtil.class
+eu/unipi/fido/uaf/tlv/TagsEnum.class
+eu/unipi/fido/uaf/tlv/ByteInputStream.class
+eu/unipi/fido/uaf/tlv/InvalidArgumentException.class
+eu/unipi/fido/uaf/tlv/TlvAssertionParser.class
+eu/unipi/fido/uaf/tlv/AlgAndEncodingEnum.class
+eu/unipi/fido/uaf/tlv/TagAssertionInfo.class
+eu/unipi/fido/uaf/tlv/Tags.class

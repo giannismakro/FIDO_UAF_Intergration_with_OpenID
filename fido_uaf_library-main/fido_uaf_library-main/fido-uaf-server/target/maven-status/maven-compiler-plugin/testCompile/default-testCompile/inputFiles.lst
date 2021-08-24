@@ -1,0 +1,10 @@
+/home/fido-server/Desktop/FIDO-SERVER-UNIPI/fido-uaf-server/src/test/java/eu/unipi/fidouafsvc/ops/AuthenticationRequestGenerationTest.java
+/home/fido-server/Desktop/FIDO-SERVER-UNIPI/fido-uaf-server/src/test/java/eu/unipi/fidouafsvc/service/impl/DeregRequestProcessorServiceTest.java
+/home/fido-server/Desktop/FIDO-SERVER-UNIPI/fido-uaf-server/src/test/java/eu/unipi/fidouafsvc/ops/RegistrationRequestGenerationTest.java
+/home/fido-server/Desktop/FIDO-SERVER-UNIPI/fido-uaf-server/src/test/java/eu/unipi/fidouafsvc/dao/TrustedFacetDaoTest.java
+/home/fido-server/Desktop/FIDO-SERVER-UNIPI/fido-uaf-server/src/test/java/eu/unipi/fidouafsvc/dao/StorageDaoTest.java
+/home/fido-server/Desktop/FIDO-SERVER-UNIPI/fido-uaf-server/src/test/java/eu/unipi/fidouafsvc/ops/RegistrationResponseProcessingTest.java
+/home/fido-server/Desktop/FIDO-SERVER-UNIPI/fido-uaf-server/src/test/java/eu/unipi/fidouafsvc/ops/AuthenticationResponseProcessingTest.java
+/home/fido-server/Desktop/FIDO-SERVER-UNIPI/fido-uaf-server/src/test/java/eu/unipi/fidouafsvc/controller/AuthenticationIdTest.java
+/home/fido-server/Desktop/FIDO-SERVER-UNIPI/fido-uaf-server/src/test/java/eu/unipi/fidouafsvc/service/impl/ProcessAuxRequestServiceTest.java
+/home/fido-server/Desktop/FIDO-SERVER-UNIPI/fido-uaf-server/src/test/java/eu/unipi/fidouafsvc/dao/RegistrationRecordDaoTest.java

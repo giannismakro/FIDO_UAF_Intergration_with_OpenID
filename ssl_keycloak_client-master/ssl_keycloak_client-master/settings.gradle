@@ -1,0 +1,2 @@
+rootProject.name = "SSL"
+include ':app'

@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3a4dca2-6ffb-4068-95d2-689d5a91e8e9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/fido-uaf-core-tlv.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/src/androidTest/java/org/ebayopensource/fido/cryptotest/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/src/androidTest/java/org/ebayopensource/fido/cryptotest/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/src/main/java/org/ebayopensource/fido/cryptotest/CryptoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/src/main/java/org/ebayopensource/fido/cryptotest/CryptoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/src/main/java/org/ebayopensource/fido/cryptotest/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/src/main/java/org/ebayopensource/fido/cryptotest/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/app/src/test/java/org/ebayopensource/fido/cryptotest/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/app/src/test/java/org/ebayopensource/fido/cryptotest/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CryptoTest/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CryptoTest/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RELEASE.md" beforeDir="false" afterPath="$PROJECT_DIR$/../RELEASE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/FAQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-crypto/FAQ.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-crypto/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-crypto/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-crypto/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-crypto/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/favorites.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-crypto/favorites.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/findbugsExclude.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-crypto/findbugsExclude.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-crypto/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/src/main/java/org/ebayopensource/fido/uaf/crypto/Asn1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/src/main/java/org/ebayopensource/fido/uaf/crypto/BCrypt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/src/main/java/org/ebayopensource/fido/uaf/crypto/CertificateValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/src/main/java/org/ebayopensource/fido/uaf/crypto/CertificateValidatorImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/src/main/java/org/ebayopensource/fido/uaf/crypto/HMAC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/src/main/java/org/ebayopensource/fido/uaf/crypto/KeyCodec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/src/main/java/org/ebayopensource/fido/uaf/crypto/NamedCurve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/src/main/java/org/ebayopensource/fido/uaf/crypto/Notary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/src/main/java/org/ebayopensource/fido/uaf/crypto/RSA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/src/main/java/org/ebayopensource/fido/uaf/crypto/SHA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-crypto/src/main/java/org/ebayopensource/fido/uaf/crypto/X509.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favorites.xml" beforeDir="false" afterPath="$PROJECT_DIR$/favorites.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/findbugsExclude.xml" beforeDir="false" afterPath="$PROJECT_DIR$/findbugsExclude.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/AuthenticationRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/AuthenticationResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/AuthenticatorRegistrationAssertion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/AuthenticatorSignAssertion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/ChannelBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/DeregisterAuthenticator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/DeregistrationRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/DisplayPNGCharacteristicsDescriptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/Extension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/FinalChallengeParams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/JwkKey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/MatchCriteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/OperationHeader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/Policy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/RegistrationRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/RegistrationResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/Version.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ebayopensource/fido/uaf/msg/rgbPalletteEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/FAQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/FAQ.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/favorites.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/favorites.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/findbugsExclude.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/findbugsExclude.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fido-uaf-core-tlv/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/src/main/java/org/ebayopensource/fido/uaf/tlv/AlgAndEncodingEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/src/main/java/org/ebayopensource/fido/uaf/tlv/ByteInputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/src/main/java/org/ebayopensource/fido/uaf/tlv/InvalidArgumentException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/src/main/java/org/ebayopensource/fido/uaf/tlv/Tag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/src/main/java/org/ebayopensource/fido/uaf/tlv/TagAssertionInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/src/main/java/org/ebayopensource/fido/uaf/tlv/Tags.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/src/main/java/org/ebayopensource/fido/uaf/tlv/TagsEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/src/main/java/org/ebayopensource/fido/uaf/tlv/TlvAssertionParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fido-uaf-core-tlv/src/main/java/org/ebayopensource/fido/uaf/tlv/UnsignedUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app-debug/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app-debug/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/androidTest/java/ro/certsign/fidotest/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/androidTest/java/ro/certsign/fidotest/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/java/ro/certsign/fidotest/FidoUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/java/ro/certsign/fidotest/FidoUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/java/ro/certsign/fidotest/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/java/ro/certsign/fidotest/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/java/ro/certsign/fidotest/wifi/WifiSwitcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/java/ro/certsign/fidotest/wifi/WifiSwitcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/consent_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/consent_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/consent_button_disabled.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/consent_button_disabled.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/consent_button_enabled.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/consent_button_enabled.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/consent_button_pressed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/consent_button_pressed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/decline_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/decline_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/decline_button_enabled.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/decline_button_enabled.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/decline_button_pressed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/decline_button_pressed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/s_proceed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable-v24/s_proceed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/layout/activity_asmentrypoint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/layout/activity_asmentrypoint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/layout/activity_client_entrypoint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/layout/activity_client_entrypoint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/layout/activity_fido_uaf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/layout/activity_fido_uaf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/layout/transaction_dialog_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/layout/transaction_dialog_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/test/java/ro/certsign/fidotest/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/app/src/test/java/ro/certsign/fidotest/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/fido/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/fido/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidotest_lib_nicos/ssl/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidotest_lib_nicos/ssl/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/GetLastAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/GetLastAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/GetUAFRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/GetUAFRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/ReturnUAFAuthenticationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/ReturnUAFAuthenticationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/ReturnUAFDeregistrationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/ReturnUAFDeregistrationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/ReturnUAFRegistrationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/ReturnUAFRegistrationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/ServerResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/ServerResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/Token.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/TokenType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/RPserver/msg/TokenType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/facets/Facets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/facets/Facets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/facets/TrustedFacets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/facets/TrustedFacets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/ops/AuthenticationRequestGeneration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/ops/AuthenticationRequestGeneration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/ops/AuthenticationResponseProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/ops/AuthenticationResponseProcessing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/ops/RegistrationRequestGeneration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/ops/RegistrationRequestGeneration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/ops/RegistrationResponseProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/ops/RegistrationResponseProcessing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/ops/ServerDataExpiredException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/ops/ServerDataExpiredException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/ops/ServerDataSignatureNotMatchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/ops/ServerDataSignatureNotMatchException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/About.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/About.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/util/DeregRequestProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/util/DeregRequestProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/util/FetchRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/util/FetchRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/util/NotaryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/util/NotaryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/util/ProcessAuxRequests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/util/ProcessAuxRequests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/util/StorageImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/res/util/StorageImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/stats/Dash.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/stats/Dash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/storage/AuthenticatorRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/storage/AuthenticatorRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/storage/DuplicateKeyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/storage/DuplicateKeyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/storage/RegistrationRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/storage/RegistrationRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/storage/StorageInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/storage/StorageInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/storage/SystemErrorException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/java/org/ebayopensource/fidouaf/storage/SystemErrorException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouaf/src/test/java/org/ebayopensource/fidouaf/res/util/StorageImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouaf/src/test/java/org/ebayopensource/fidouaf/res/util/StorageImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/androidTest/java/eu/unipi/fidouaf/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/androidTest/java/eu/unipi/fidouaf/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/ASMInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/ASMInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/activity/ASMEntrypoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/activity/ASMEntrypoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/activity/ConfirmTransactionDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/activity/ConfirmTransactionDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/cmds/Authenticate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/cmds/Authenticate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/cmds/Deregister.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/cmds/Deregister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/cmds/GetInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/cmds/GetInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/cmds/GetRegistrations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/cmds/GetRegistrations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/cmds/OpenSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/cmds/OpenSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/cmds/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/cmds/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/AuthenticatorIndexContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/AuthenticatorIndexContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/AuthenticatorIndexDbHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/AuthenticatorIndexDbHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/KeyHandleContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/KeyHandleContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/KeyHandleDbHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/KeyHandleDbHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/controllers/AuthenticatorIndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/controllers/AuthenticatorIndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/controllers/KeyHandleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/controllers/KeyHandleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/models/AuthenticatorIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/models/AuthenticatorIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/models/KeyHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/models/KeyHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/ops/AuthenticatorIndexOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/ops/AuthenticatorIndexOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/ops/KeyHandleOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/db/ops/KeyHandleOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/usb/UsbPermissionReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/asm/usb/UsbPermissionReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/Authenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/Authenticator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/AuthenticatorInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/AuthenticatorInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/CommandTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/CommandTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/assertions/AuthAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/assertions/AuthAssertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/assertions/RegAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/assertions/RegAssertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/cmds/Authenticate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/cmds/Authenticate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/cmds/Deregister.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/cmds/Deregister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/cmds/GetInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/cmds/GetInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/cmds/OpenSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/cmds/OpenSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/cmds/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/cmds/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/db/CountersContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/db/CountersContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/db/CountersDbHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/db/CountersDbHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/db/controllers/CountersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/db/controllers/CountersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/db/models/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/db/models/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/db/models/RawKeyHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/db/models/RawKeyHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/db/ops/CounterOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/authenticator/db/ops/CounterOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/activity/ClientEntrypoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/activity/ClientEntrypoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/cmds/Authenticate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/cmds/Authenticate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/cmds/Deregister.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/cmds/Deregister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/cmds/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/cmds/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/cmds/util/FacetValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/cmds/util/FacetValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/cmds/util/FieldValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/cmds/util/FieldValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/cmds/util/PolicyProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/cmds/util/PolicyProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/db/AuthenticatorInfoContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/db/AuthenticatorInfoContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/db/AuthenticatorInfoDbHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/db/AuthenticatorInfoDbHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/db/controller/AuthenticatorInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/db/controller/AuthenticatorInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/db/ops/AuthenticatorInfoOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/client/db/ops/AuthenticatorInfoOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/crypto/Keystore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/crypto/Keystore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/AuthenticationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/AuthenticationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/AuthenticationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/AuthenticationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/AuthenticatorRegistrationAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/AuthenticatorRegistrationAssertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/AuthenticatorSignAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/AuthenticatorSignAssertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/BiometricAccuracyDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/BiometricAccuracyDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/ChannelBinding.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/ChannelBinding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/CodeAccuracyDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/CodeAccuracyDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/DeregisterAuthenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/DeregisterAuthenticator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/DeregistrationOperationHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/DeregistrationOperationHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/DeregistrationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/DeregistrationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/DisplayPNGCharacteristicsDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/DisplayPNGCharacteristicsDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/Extension.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/Extension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/FinalChallengeParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/FinalChallengeParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/JwkKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/JwkKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/MatchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/MatchCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/MetadataStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/MetadataStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/OperationHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/OperationHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/PatternAccuracyDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/PatternAccuracyDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/Policy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/Policy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/RegistrationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/RegistrationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/RegistrationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/RegistrationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/TrustedFacets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/TrustedFacets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/TrustedFacetsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/TrustedFacetsList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/UAFRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/UAFRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/VerificationMethodANDCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/VerificationMethodANDCombinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/VerificationMethodDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/VerificationMethodDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/Version.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/Version.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/ASMRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/ASMRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/ASMRequestInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/ASMRequestInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/ASMResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/ASMResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/AppRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/AppRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/AuthenticateIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/AuthenticateIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/AuthenticateOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/AuthenticateOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/AuthenticatorInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/AuthenticatorInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/DeregisterIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/DeregisterIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/GetInfoOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/GetInfoOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/GetRegistrationsOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/GetRegistrationsOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/RegisterIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/RegisterIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/RegisterOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/RegisterOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/RequestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/RequestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/ResponseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/asm/obj/ResponseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/client/Authenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/client/Authenticator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/client/DiscoveryData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/client/DiscoveryData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/client/UAFIntentType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/client/UAFIntentType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/client/UAFMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/client/UAFMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/rgbPalletteEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/msg/rgbPalletteEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/AlgAndEncodingEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/AlgAndEncodingEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/ByteInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/ByteInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/InvalidArgumentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/InvalidArgumentException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/Tag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/Tag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/TagAssertionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/TagAssertionInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/Tags.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/Tags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/TagsEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/TagsEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/TlvAssertionParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/TlvAssertionParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/UnsignedUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/tlv/UnsignedUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/util/ApplicationContextProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/util/ApplicationContextProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/util/Preferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/java/eu/unipi/fidouaf/util/Preferences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/consent_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/consent_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/consent_button_disabled.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/consent_button_disabled.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/consent_button_enabled.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/consent_button_enabled.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/consent_button_pressed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/consent_button_pressed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/decline_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/decline_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/decline_button_enabled.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/decline_button_enabled.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/decline_button_pressed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/decline_button_pressed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/s_proceed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/drawable/s_proceed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/layout/activity_asmentrypoint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/layout/activity_asmentrypoint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/layout/activity_client_entrypoint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/layout/activity_client_entrypoint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/layout/activity_fido_uaf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/layout/activity_fido_uaf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/layout/transaction_dialog_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/layout/transaction_dialog_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values-sw600dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values-sw600dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values-sw720dp-land/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values-sw720dp-land/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values-v11/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values-v11/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values-v14/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values-v14/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/app/src/test/java/eu/unipi/fidouaf/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/app/src/test/java/eu/unipi/fidouaf/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/projectFilesBackup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/projectFilesBackup/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient-core/ssl_context/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient-core/ssl_context/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/libraries/app_debug_unspecified.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/libraries/commons_codec_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/libraries/gson_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/libraries/sc_light_jdk15on_1_47_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/libraries/scprov_jdk15on_1_47_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/libraries/support_v4_18_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app-debug/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app-debug/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/publish_on_play" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/publish_on_play" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/publish_on_play.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/publish_on_play.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/SaveMessageDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/SaveMessageDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/curl/Curl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/curl/Curl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/op/Auth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/op/Auth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/op/Dereg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/op/Dereg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/op/OpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/op/OpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/op/Reg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/op/Reg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/util/Endpoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/java/eu/unipi/fidouaf/client/util/Endpoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/play/ro/whatsnew-alpha" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/play/ro/whatsnew-alpha" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/drawable-hdpi/s_authenticate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/drawable-hdpi/s_authenticate.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/drawable-hdpi/s_back.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/drawable-hdpi/s_back.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/drawable-hdpi/s_deregister.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/drawable-hdpi/s_deregister.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/drawable-hdpi/s_proceed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/drawable-hdpi/s_proceed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/drawable-hdpi/s_register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/drawable-hdpi/s_register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/layout/activity_authenticated.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/layout/activity_authenticated.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/layout/activity_registered.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/layout/activity_registered.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/layout/activity_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/layout/activity_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/layout/dialog_save_message.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/layout/dialog_save_message.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/menu/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/menu/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values-sw600dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values-sw600dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values-sw720dp-land/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values-sw720dp-land/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values-v11/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values-v11/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values-v14/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values-v14/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/key.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/key.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/keystore.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/keystore.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclient/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclient/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__com_madgag_sc_light_jdk15on_1_47_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__com_madgag_sc_light_jdk15on_1_47_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__com_madgag_scprov_jdk15on_1_47_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__com_madgag_scprov_jdk15on_1_47_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__org_json_json_20160810.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/libraries/Maven__org_json_json_20160810.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/config/endpoints.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/config/endpoints.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/mvp/presenters/RPClientPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/mvp/presenters/RPClientPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/mvp/presenters/UAFPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/mvp/presenters/UAFPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/op/Auth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/op/Auth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/op/Dereg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/op/Dereg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/op/OpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/op/OpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/op/Reg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/op/Reg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/util/Curl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/util/Curl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/util/KeyGuardMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/util/KeyGuardMock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/util/Preferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/util/Preferences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/util/ThreadRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/client/util/ThreadRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/AttestCert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/AttestCert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/AuthAssertionBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/AuthAssertionBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/AuthenticationRequestProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/AuthenticationRequestProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/RegAssertionBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/RegAssertionBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/RegistrationRequestProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/RegistrationRequestProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/op/Auth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/op/Auth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/op/Dereg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/op/Dereg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/op/Reg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/client/op/Reg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/Asn1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/Asn1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/BCrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/BCrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/HMAC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/HMAC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/KeyCodec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/KeyCodec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/NamedCurve.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/NamedCurve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/Notary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/Notary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/SHA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/SHA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/UnsafeByteArrayOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/UnsafeByteArrayOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/X509.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/crypto/X509.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/AuthenticationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/AuthenticationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/AuthenticationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/AuthenticationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/AuthenticatorRegistrationAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/AuthenticatorRegistrationAssertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/AuthenticatorSignAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/AuthenticatorSignAssertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/ChannelBinding.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/ChannelBinding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/DeregisterAuthenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/DeregisterAuthenticator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/DeregistrationOperationHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/DeregistrationOperationHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/DeregistrationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/DeregistrationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/DisplayPNGCharacteristicsDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/DisplayPNGCharacteristicsDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/Extension.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/Extension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/FinalChallengeParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/FinalChallengeParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/JwkKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/JwkKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/MatchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/MatchCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/OperationHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/OperationHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/Policy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/Policy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/RegistrationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/RegistrationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/RegistrationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/RegistrationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/TrustedFacets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/TrustedFacets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/TrustedFacetsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/TrustedFacetsList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/Version.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/Version.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/ASMRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/ASMRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/ASMResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/ASMResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/AppRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/AppRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/AuthenticateIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/AuthenticateIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/AuthenticateOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/AuthenticateOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/AuthenticatorInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/AuthenticatorInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/DeregisterIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/DeregisterIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/GetInfoOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/GetInfoOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/GetRegistrationsOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/GetRegistrationsOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/RegisterIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/RegisterIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/RegisterOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/RegisterOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/client/UAFIntentType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/client/UAFIntentType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/client/UAFMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/client/UAFMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/rgbPalletteEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/msg/rgbPalletteEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/AlgAndEncodingEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/AlgAndEncodingEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/ByteInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/ByteInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/InvalidArgumentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/InvalidArgumentException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/Tag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/Tag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/TagAssertionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/TagAssertionInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/Tags.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/Tags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/TagsEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/TagsEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/TlvAssertionParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/TlvAssertionParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/UnsignedUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/tlv/UnsignedUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/util/Base64.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/main/java/eu/unipi/fidouafjava/fido/uaf/util/Base64.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/test/java/eu/unipi/fidouafjava/client/mvp/presenters/RPClientPresenterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/test/java/eu/unipi/fidouafjava/client/mvp/presenters/RPClientPresenterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/test/java/eu/unipi/fidouafjava/client/util/PreferencesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/test/java/eu/unipi/fidouafjava/client/util/PreferencesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/test/java/eu/unipi/fidouafjava/fido/uaf/client/op/AuthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/test/java/eu/unipi/fidouafjava/fido/uaf/client/op/AuthTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/src/test/java/eu/unipi/fidouafjava/fido/uaf/client/op/RegTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/src/test/java/eu/unipi/fidouafjava/fido/uaf/client/op/RegTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/mvp/presenters/RPClientPresenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/mvp/presenters/RPClientPresenter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/mvp/presenters/UAFPresenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/mvp/presenters/UAFPresenter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/op/Auth.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/op/Auth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/op/Dereg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/op/Dereg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/op/OpUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/op/OpUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/op/Reg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/op/Reg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/Curl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/Curl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/KeyGuardMock$KeyStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/KeyGuardMock$KeyStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/KeyGuardMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/KeyGuardMock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/Preferences$Endpoints.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/Preferences$Endpoints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/Preferences$Settings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/Preferences$Settings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/Preferences.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/Preferences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/ThreadRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/client/util/ThreadRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/AttestCert.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/AttestCert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/AuthAssertionBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/AuthAssertionBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/AuthenticationRequestProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/AuthenticationRequestProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/RegAssertionBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/RegAssertionBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/RegistrationRequestProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/RegistrationRequestProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/op/Auth.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/op/Auth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/op/Dereg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/op/Dereg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/op/Reg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/client/op/Reg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/crypto/KeyCodec.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/crypto/KeyCodec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/crypto/SHA.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/crypto/SHA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/AuthenticatorRegistrationAssertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/AuthenticatorRegistrationAssertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/RegistrationRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/RegistrationRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/TrustedFacetsList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/TrustedFacetsList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/asm/ASMRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/asm/ASMRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/asm/ASMResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/asm/ASMResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/RegisterIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/RegisterIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/RegisterOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/msg/asm/obj/RegisterOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/tlv/TagAssertionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/classes/eu/unipi/fidouafjava/fido/uaf/tlv/TagAssertionInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-eu.unipi.fidouafjava.client.mvp.presenters.RPClientPresenterTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-eu.unipi.fidouafjava.client.mvp.presenters.RPClientPresenterTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-eu.unipi.fidouafjava.client.util.PreferencesTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-eu.unipi.fidouafjava.client.util.PreferencesTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-eu.unipi.fidouafjava.fido.uaf.client.op.AuthTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-eu.unipi.fidouafjava.fido.uaf.client.op.AuthTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-eu.unipi.fidouafjava.fido.uaf.client.op.RegTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-eu.unipi.fidouafjava.fido.uaf.client.op.RegTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-test.java.ro.certsign.fidouafjava.client.mvp.presenters.RPClientPresenterTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-test.java.ro.certsign.fidouafjava.client.mvp.presenters.RPClientPresenterTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-test.java.ro.certsign.fidouafjava.client.util.PreferencesTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-test.java.ro.certsign.fidouafjava.client.util.PreferencesTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-test.java.ro.certsign.fidouafjava.fido.uaf.client.op.AuthTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-test.java.ro.certsign.fidouafjava.fido.uaf.client.op.AuthTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-test.java.ro.certsign.fidouafjava.fido.uaf.client.op.RegTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/TEST-test.java.ro.certsign.fidouafjava.fido.uaf.client.op.RegTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/eu.unipi.fidouafjava.client.mvp.presenters.RPClientPresenterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/eu.unipi.fidouafjava.client.mvp.presenters.RPClientPresenterTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/eu.unipi.fidouafjava.client.util.PreferencesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/eu.unipi.fidouafjava.client.util.PreferencesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/eu.unipi.fidouafjava.fido.uaf.client.op.AuthTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/eu.unipi.fidouafjava.fido.uaf.client.op.AuthTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/eu.unipi.fidouafjava.fido.uaf.client.op.RegTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/eu.unipi.fidouafjava.fido.uaf.client.op.RegTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/test.java.ro.certsign.fidouafjava.client.mvp.presenters.RPClientPresenterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/test.java.ro.certsign.fidouafjava.client.mvp.presenters.RPClientPresenterTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/test.java.ro.certsign.fidouafjava.client.util.PreferencesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/test.java.ro.certsign.fidouafjava.client.util.PreferencesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/test.java.ro.certsign.fidouafjava.fido.uaf.client.op.AuthTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/test.java.ro.certsign.fidouafjava.fido.uaf.client.op.AuthTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/test.java.ro.certsign.fidouafjava.fido.uaf.client.op.RegTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafclientjava/target/surefire-reports/test.java.ro.certsign.fidouafjava.fido.uaf.client.op.RegTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__com_h2database_h2_1_4_192.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__com_h2database_h2_1_4_192.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__eu_unipi_fido_uaf_core_crypto_0_0_1_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__eu_unipi_fido_uaf_core_crypto_0_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__eu_unipi_fido_uaf_core_msg_0_0_1_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__eu_unipi_fido_uaf_core_msg_0_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__eu_unipi_fido_uaf_core_tlv_0_0_1_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__eu_unipi_fido_uaf_core_tlv_0_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__javax_servlet_servlet_api_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__javax_servlet_servlet_api_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_51.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_6_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_6_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_mariadb_jdbc_mariadb_java_client_2_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_mariadb_jdbc_mariadb_java_client_2_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_aop_4_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_aop_4_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_beans_4_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_beans_4_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_context_4_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_context_4_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_core_4_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_core_4_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_expression_4_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_expression_4_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_orm_4_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_orm_4_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_test_4_0_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_test_4_0_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_tx_4_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_tx_4_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_web_4_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_web_4_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.settings/.jsdtscope" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.settings/.jsdtscope" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/AuthenticationResponseProcessesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/AuthenticationResponseProcessesor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/RegistrationRequestGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/RegistrationRequestGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/RegistrationResponseProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/RegistrationResponseProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/RequestAccountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/RequestAccountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0001.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0001.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0002.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0002.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0003.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0003.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0004.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0004.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0005.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0005.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0006.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0006.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0007.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0007.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0008.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0008.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0009.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0009.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0010.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0010.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0011.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0011.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0012.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0012.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0013.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0013.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0014.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0014.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0015.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0015.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0016.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0016.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0017.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#0017.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#5201.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/metadata/FFFF#5201.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/configuration/HibernateConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/configuration/HibernateConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/configuration/OtherConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/configuration/OtherConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/controller/AboutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/controller/AboutController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/controller/AdapterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/controller/AdapterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/controller/FidoUafAuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/controller/FidoUafAuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/controller/FidoUafController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/controller/FidoUafController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/controller/FidoUafRegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/controller/FidoUafRegistrationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/controller/RecoveryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/controller/RecoveryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dao/AaidDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dao/AaidDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dao/MetadataStatementDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dao/MetadataStatementDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dao/RegistrationRecordDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dao/RegistrationRecordDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dao/StorageDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dao/StorageDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dao/TrustedFacetDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dao/TrustedFacetDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/AuthenticationRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/AuthenticationRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/Authenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/Authenticator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/DeregistrationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/DeregistrationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/RegistrationRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/RegistrationRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/ServerResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/ServerResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/adapter/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/adapter/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/adapter/GetRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/adapter/GetRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/adapter/GetResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/adapter/GetResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/adapter/ReturnUAFRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/adapter/ReturnUAFRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/adapter/SendRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/adapter/SendRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/adapter/SendResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/dto/adapter/SendResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/About.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/About.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/AuthenticationIdModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/AuthenticationIdModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/Facets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/Facets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/FidoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/FidoConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/MetadataStatementModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/MetadataStatementModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/RegistrationRecordModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/RegistrationRecordModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/TrustedFacet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/TrustedFacet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/TrustedFacets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/TrustedFacets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/Aaid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/Aaid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/BiometricAccuracyDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/BiometricAccuracyDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/CodeAccuracyDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/CodeAccuracyDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/MetadataStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/MetadataStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/PatternAccuracyDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/PatternAccuracyDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/VerificationMethodDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/VerificationMethodDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/Version.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/Version.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/rgbPalletEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/model/metadata/rgbPalletEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/ops/AuthenticationRequestGeneration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/ops/AuthenticationRequestGeneration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/ops/AuthenticationResponseProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/ops/AuthenticationResponseProcessing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/ops/RegistrationRequestGeneration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/ops/RegistrationRequestGeneration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/ops/RegistrationResponseProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/ops/RegistrationResponseProcessing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/ops/ServerDataExpiredException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/ops/ServerDataExpiredException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/ops/ServerDataSignatureNotMatchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/ops/ServerDataSignatureNotMatchException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/NotaryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/NotaryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/NotaryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/NotaryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/DeregRequestProcessorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/DeregRequestProcessorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/FetchRequestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/FetchRequestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/NotaryServiceDummyImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/NotaryServiceDummyImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/NotaryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/NotaryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/ProcessAuxRequestsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/ProcessAuxRequestsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/ProcessResponseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/ProcessResponseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/RegistrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/service/impl/RegistrationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/storage/AuthenticatorRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/storage/AuthenticatorRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/storage/DuplicateKeyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/storage/DuplicateKeyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/storage/RegistrationRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/storage/RegistrationRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/storage/RequestAccountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/storage/RequestAccountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/storage/StorageInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/storage/StorageInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/storage/SystemErrorException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/storage/SystemErrorException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/util/JdbcRadius.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/util/JdbcRadius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/util/RequestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/util/RequestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/util/ResponseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/java/eu/unipi/fidouafsvc/util/ResponseHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/resources/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/webapp/WEB-INF/fidouafsvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/webapp/WEB-INF/fidouafsvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/controller/AuthenticationIdTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/controller/AuthenticationIdTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/dao/RegistrationRecordDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/dao/RegistrationRecordDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/dao/StorageDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/dao/StorageDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/dao/TrustedFacetDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/dao/TrustedFacetDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/ops/AuthenticationRequestGenerationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/ops/AuthenticationRequestGenerationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/ops/AuthenticationResponseProcessingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/ops/AuthenticationResponseProcessingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/ops/RegistrationRequestGenerationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/ops/RegistrationRequestGenerationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/ops/RegistrationResponseProcessingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/ops/RegistrationResponseProcessingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/service/impl/DeregRequestProcessorServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/service/impl/DeregRequestProcessorServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/service/impl/ProcessAuxRequestServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/java/eu/unipi/fidouafsvc/service/impl/ProcessAuxRequestServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/resources/fidouafsvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/resources/fidouafsvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/resources/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/resources/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/webapp/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/webapp/WEB-INF/fidouafsvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/webapp/WEB-INF/fidouafsvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/src/test/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/src/test/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fidouafsvc/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../fidouafsvc/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mail.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../mail.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recipients.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../recipients.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../fidotest_lib_nicos" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sh" />
+        <option value="$PROJECT_DIR$/src/main/java/eu/unipi/fido/uaf/msg/Operation.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fido-uaf-core-msg" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fido-uaf-core-msg" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="951" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fido-uaf-core-msg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fido-uaf-core-msg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fido-uaf-core-msg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fido-uaf-core-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fido-uaf-core-msg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fido-uaf-core-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fido-uaf-core-msg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fido-uaf-core-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fido-uaf-core-msg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fido-uaf-core-msg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="msg" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="fido-uaf-core-msg" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3413793" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="All in fido-uaf-core-msg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fido-uaf-core-msg" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in fido-uaf-core-msg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3a4dca2-6ffb-4068-95d2-689d5a91e8e9" name="Default" comment="" />
+      <created>1526240671482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526240671482</updated>
+      <workItem from="1526313149260" duration="1912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_fido-uaf-core-msg - 2018.05.14 at 19h 08m 51s.xml">
+      <configuration name="All in fido-uaf-core-msg" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_fido-uaf-core-msg - 2018.05.15 at 21h 37m 33s.xml">
+      <configuration name="All in fido-uaf-core-msg" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1912000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-1" width="1922" height="956" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5048026" side_tool="true" visible="true" weight="0.32928312" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.35592315" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49519745" weight="0.32928312" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49739584" weight="0.32821077" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2764141" />
+      <window_info id="Learn" order="3" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.32977587" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497332" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49306297" weight="0.32928312" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/unipi/fido/uaf/msg/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/unipi/fido/uaf/msg/OperationHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/unipi/fido/uaf/msg/RegistrationResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/unipi/fido/uaf/msg/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/unipi/fido/uaf/msg/OperationHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/unipi/fido/uaf/msg/RegistrationResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/unipi/fido/uaf/msg/OperationHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/unipi/fido/uaf/msg/RegistrationResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/unipi/fido/uaf/msg/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3413793" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3413793" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3413793" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3413793" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fido-uaf-core-msg</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3413793" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3413793" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean install" />
+    <option value="install" />
+  </component>
+</project>

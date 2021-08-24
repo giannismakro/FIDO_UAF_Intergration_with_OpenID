@@ -1,0 +1,12 @@
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+
+spring.jpa.properties.hibernate.generate_statistics=true
+logging.level.org.hibernate.type=trace
+logging.level.org.hibernate.stat=debug
+
+#jdbc.driverClassName = com.mysql.jdbc.Driver
+#jdbc.url = jdbc:mysql://localhost:3306/websystique
+jdbc.username = myuser
+jdbc.password = mypassword
+#hibernate.dialect = or

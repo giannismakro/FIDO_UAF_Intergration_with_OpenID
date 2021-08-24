@@ -1,0 +1,4 @@
+include ':newfido'
+include ':newssl'
+include ':app'
+rootProject.name = "uprcfido"

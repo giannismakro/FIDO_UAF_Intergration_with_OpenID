@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FIDO-SERVER-UNIPI.iml" filepath="$PROJECT_DIR$/.idea/FIDO-SERVER-UNIPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fido-uaf-core-crypto/fido-uaf-core-crypto.iml" filepath="$PROJECT_DIR$/fido-uaf-core-crypto/fido-uaf-core-crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fido-uaf-core-msg/fido-uaf-core-msg.iml" filepath="$PROJECT_DIR$/fido-uaf-core-msg/fido-uaf-core-msg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fido-uaf-core-tlv/fido-uaf-core-tlv.iml" filepath="$PROJECT_DIR$/fido-uaf-core-tlv/fido-uaf-core-tlv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fido-uaf-server/fido-uaf-server.iml" filepath="$PROJECT_DIR$/fido-uaf-server/fido-uaf-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fidouafsvc/fidouafsvc.iml" filepath="$PROJECT_DIR$/fidouafsvc/fidouafsvc.iml" />
+    </modules>
+  </component>
+</project>

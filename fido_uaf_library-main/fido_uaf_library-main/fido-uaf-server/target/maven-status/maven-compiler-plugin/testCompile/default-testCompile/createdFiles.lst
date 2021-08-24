@@ -1,0 +1,15 @@
+eu/unipi/fidouafsvc/ops/RegistrationRequestGenerationTest.class
+eu/unipi/fidouafsvc/ops/AuthenticationResponseProcessingTest.class
+eu/unipi/fidouafsvc/service/impl/DeregRequestProcessorServiceTest.class
+eu/unipi/fidouafsvc/service/impl/ProcessAuxRequestServiceTest$Response.class
+eu/unipi/fidouafsvc/dao/StorageDaoTest.class
+eu/unipi/fidouafsvc/service/impl/ProcessAuxRequestServiceTest.class
+eu/unipi/fidouafsvc/ops/RegistrationRequestGenerationTest$NotaryImpl.class
+eu/unipi/fidouafsvc/ops/AuthenticationRequestGenerationTest.class
+eu/unipi/fidouafsvc/ops/RegistrationResponseProcessingTest.class
+eu/unipi/fidouafsvc/ops/RegistrationResponseProcessingTest$NotaryImpl.class
+eu/unipi/fidouafsvc/dao/RegistrationRecordDaoTest.class
+eu/unipi/fidouafsvc/controller/AuthenticationIdTest.class
+eu/unipi/fidouafsvc/ops/AuthenticationRequestGenerationTest$NotaryImpl.class
+eu/unipi/fidouafsvc/dao/TrustedFacetDaoTest.class
+eu/unipi/fidouafsvc/ops/AuthenticationResponseProcessingTest$ServerDataImpl.class

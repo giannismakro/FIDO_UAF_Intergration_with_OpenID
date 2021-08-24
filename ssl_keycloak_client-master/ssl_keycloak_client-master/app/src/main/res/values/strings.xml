@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SSL</string>
+    <string name="authenticate_with_fido">Authenticate with FIDO</string>
+    <string name="todo">TODO</string>
+</resources>

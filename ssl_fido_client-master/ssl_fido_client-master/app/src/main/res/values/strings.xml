@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SSL FIDO</string>
+    <string name="todo">TODO</string>
+    <string name="server">Server:</string>
+    <string name="deregister">Deregister</string>
+    <string name="server_response">Server Response:</string>
+    <string name="username">Username:</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="register">Register</string>
+    <string name="set_local_fido">Set Local FIDO</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="set_public_fido">Set Public FIDO</string>
+    <string name="clear_fields">Clear Fields</string>
+</resources>
