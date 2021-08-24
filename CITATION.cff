@@ -6,7 +6,7 @@ authors:
 - family-names: "Chouchoulis"
   given-names: "Ioannis"
 title: "FIDO UAF intergration with OpenID"
-version: 1.0.
+version: 1.0.0
 doi: 10.5281/zenodo.5247167
 date-released: 2021-08-24
 url: "https://doi.org/10.5281/zenodo.5247167"
