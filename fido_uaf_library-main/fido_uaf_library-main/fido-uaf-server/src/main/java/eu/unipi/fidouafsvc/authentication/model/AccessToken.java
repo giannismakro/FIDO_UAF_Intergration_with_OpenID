@@ -2,6 +2,7 @@ package eu.unipi.fidouafsvc.authentication.model;
 
 /**
  * Created by ioana on 11/12/2020.
+ *Updated by Ioannis Makropodis 23/8/2021
  */
 import java.io.Serializable;
 import com.google.gson.annotations.Expose;
