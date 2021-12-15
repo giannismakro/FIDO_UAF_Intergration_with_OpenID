@@ -2,6 +2,7 @@ package eu.unipi.fidouafsvc.authentication.config;
 
 /**
  * Created by ioana on 11/13/2020.
+ *Updated by Ioannis Makropodis 23/8/2021
  */
 public class APIConfiguration {
 
